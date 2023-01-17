@@ -1,0 +1,5 @@
+#ignore files i didn't create
+composer.lock
+error_log
+tmp/
+vendor/

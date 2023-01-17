@@ -1,0 +1,12 @@
+{
+  "name": "zfortinc/328/diner",
+  "authors": [
+    {
+      "name": "Zoe Fortin",
+      "email": "fortin.zoe@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
